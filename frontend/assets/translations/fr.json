@@ -909,8 +909,7 @@
       "maxHeightOfCanvas": "Hauteur maximale de la toile",
       "backgroundColorOfCanvas": "Couleur d'arrière-plan de la toile"
     },
-    "Back": 
-    {
+    "Back": {
       "text": "Retour",
       "tip": "De retour à la maison"
     }

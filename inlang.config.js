@@ -9,7 +9,7 @@ export async function defineConfig(env) {
   return {
     referenceLanguage: 'en',
     plugins: [
-      i18nextPlugin({ pathPattern: 'assets/translations/{language}.json', ignore: ["languages.json"] }),
+      i18nextPlugin({ pathPattern: 'frontend/assets/translations/{language}.json', ignore: ["languages.json"] }),
       standardLintRules(),
     ],
   };
